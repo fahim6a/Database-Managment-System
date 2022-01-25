@@ -1,0 +1,20 @@
+distinct== unique value print kora
+
+select-->From-->Where-->Group By-->having-->order By
+
+Alter table Lab1 add department char(15);
+alter table lab1 drop column department
+
+normal condition apply korar jonne where use kore thaki 
+
+kono kichu dekhate amra select cluse use kori.
+
+select loan_number
+from load 
+where branchName='zeropoint and amount>32000'
+
+mulpitple condition use korar jonne and use kori.
+
+select Name from student where CGPA between 3.50 and 4.00;
+
+jokhon kono range nia kaaj korbo tokhon between use korbo.
